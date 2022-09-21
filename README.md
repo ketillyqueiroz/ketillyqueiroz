@@ -13,6 +13,10 @@ Meu nome é Ketilly Queiroz, 20, estudante de Desenvolvimento Web com pretençã
 
 ---
 
+<p align="center">
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ketillyqueiroz"></a>
+   </p>
+
  ## Tecnologias 🖥
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
