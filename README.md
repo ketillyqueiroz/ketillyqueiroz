@@ -1,10 +1,12 @@
-
+# :man_technologist: Ketilly Queiroz
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ketilly-queiroz-928825234/)](https://www.linkedin.com/in/ketilly-queiroz-928825234/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ketillyunicsul@gmail.com)](mailto:ketillyunicsul@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ketilly.keyce/)
 
 ## Olá! 🥰
+
+# Meu nome é Ketilly Queiroz, 20, estudante de Desenvolvimento Web com pretenção em Mobile!
 
 - :books: Bacharel em [**Ciência da Computação**](https://www.cruzeirodosulvirtual.com.br/graduacao/ciencia-da-computacao/)
 - :books: Estudando: HTML5, CSS3 e Javascript
