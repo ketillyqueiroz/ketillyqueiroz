@@ -13,7 +13,7 @@ Meu nome é Ketilly Queiroz, 20, estudante de Desenvolvimento Web com pretençã
 
 ## Olá! 🥰
 
-- :books: Bacharel em [**Ciência da Computação**](https://www.cruzeirodosulvirtual.com.br/graduacao/ciencia-da-computacao/)
+- :books: Bacharel em [**Ciência da Computação 2/8**](https://www.cruzeirodosulvirtual.com.br/graduacao/ciencia-da-computacao/)
 - :books: Estudando: HTML5, CSS3 e Javascript
 
 ---
