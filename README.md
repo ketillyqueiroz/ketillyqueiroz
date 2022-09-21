@@ -12,7 +12,7 @@ Meu nome é Ketilly Queiroz, 20, estudante de Desenvolvimento Web com pretençã
 
 ---
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgdb&show_icons=true&count_private=true&theme=radical&hide=issues" />
   </a>
   
