@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&pause=1000&color=00CC64&center=true&vCenter=true&width=435&lines=%3Ch1%3E+Olá%2C+me+chamo Ketilly Queiroz%2F+%3C%2Fh1%3E" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD18E1&width=435&lines=Ketilly+Queiroz;Ol%C3%A1%2C+me+chamo+Ketilly" alt="Typing SVG"/>
 </p>
 <p align="center"><code> 
 Desenvolvedor iniciante, sem medo de falar 😌, focado atualmente no Front-End, na trindade HTML5, CSS3 e JavaScript, principalmente JavaScript. Estudando todos os dias para uma evolução rumo ao infinito e além! </code></p>
