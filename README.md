@@ -1,4 +1,9 @@
-# :man_technologist: Ketilly Queiroz
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&pause=1000&color=00CC64&center=true&vCenter=true&width=435&lines=%3Ch1%3E+Olá,%2C+me+chamo Ketilly Queiroz+o%2F+%3C%2Fh1%3E" alt="Typing SVG"/>
+</p>
+<p align="center"><code> 
+Desenvolvedor iniciante, sem medo de falar 😌, focado atualmente no Front-End, na trindade HTML5, CSS3 e JavaScript, principalmente JavaScript. Estudando todos os dias para uma evolução rumo ao infinito e além! </code></p>
+<p align="center"><code>  Em busca de um trabalho na área.  👨🏽‍💻</code></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ketilly-queiroz-928825234/)](https://www.linkedin.com/in/ketilly-queiroz-928825234/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ketillyunicsul@gmail.com)](mailto:ketillyunicsul@gmail.com)
