@@ -1,9 +1,10 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD18E1&center=true&vCenter=truewidth=435&lines=Ketilly+Queiroz;Ol%C3%A1%2C+me+chamo+Ketilly" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD18E1&center=true&vCenter=truewidth=535&lines=>Ketilly+Queiroz<;Ol%C3%A1%2C+me+chamo+Ketilly" alt="Typing SVG"/>
 </p>
 <p align="center"><code> 
 Meu nome é Ketilly Queiroz, 20, estudante de Desenvolvimento Web com pretenção em Mobile! </code></p>
 <p align="center"><code>  Em busca de conhecimento sempre.  👨🏽‍💻</code></p>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ketilly-queiroz-928825234/)](https://www.linkedin.com/in/ketilly-queiroz-928825234/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ketillyunicsul@gmail.com)](mailto:ketillyunicsul@gmail.com)
