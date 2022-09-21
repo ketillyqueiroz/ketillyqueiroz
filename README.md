@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD18E1&width=435&lines=%3Cp%3E+Ketilly+Queiroz+%3C%2Fp%3E" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD18E1&center=true&vCenter=true&width=435&lines=%3Cp%3E+Ketilly+Queiroz+%3C%2Fp%3E" alt="Typing SVG"/>
 </p>
 <p align="center"><code> 
 Meu nome é Ketilly Queiroz, 20, estudante de Desenvolvimento Web com pretenção em Mobile! </code></p>
