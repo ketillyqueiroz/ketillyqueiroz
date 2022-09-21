@@ -25,15 +25,7 @@ Meu nome é Ketilly Queiroz, 20, estudante de Desenvolvimento Web com pretençã
   
   ---
   
-  <p align="center">
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ketillyqueiroz">
-    <img align="center" src="https://camo.githubusercontent.com/a5334e0700b904fbf12f5be7642ffefbf54c20f529565b1165a789c2256789a1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616c6578616e64726573616e6c696d">
-   </a>
- </p>
-  
-  ---
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ketillyqueiroz&show_icons=true&count_private=true&theme=radical&hide=issues" />
   </a>
   
