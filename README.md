@@ -1,4 +1,4 @@
-# :man_technologist: Ketilly Queiroz
+# Ketilly Queiroz :man_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ketilly-queiroz-928825234/)](https://www.linkedin.com/in/ketilly-queiroz-928825234/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ketillyunicsul@gmail.com)](mailto:ketillyunicsul@gmail.com)
