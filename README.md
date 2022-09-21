@@ -13,12 +13,6 @@ Meu nome é Ketilly Queiroz, 20, estudante de Desenvolvimento Web com pretençã
 
 ---
 
-<p align="center">
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ketillyqueiroz">
-    <img align="center" src="https://camo.githubusercontent.com/a5334e0700b904fbf12f5be7642ffefbf54c20f529565b1165a789c2256789a1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616c6578616e64726573616e6c696d">
-   </a>
-   </p>
-
  ## Tecnologias 🖥
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -28,6 +22,14 @@ Meu nome é Ketilly Queiroz, 20, estudante de Desenvolvimento Web com pretençã
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+  
+  ---
+  
+  <p align="center">
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ketillyqueiroz">
+    <img align="center" src="https://camo.githubusercontent.com/a5334e0700b904fbf12f5be7642ffefbf54c20f529565b1165a789c2256789a1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616c6578616e64726573616e6c696d">
+   </a>
+ </p>
   
   ---
   
