@@ -13,16 +13,10 @@ Meu nome é Ketilly Queiroz, 20, estudante de Desenvolvimento Web com pretençã
 ---
   
   <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgdb&show_icons=true&count_private=true&theme=radical&hide=issues" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ketillyqueiroz&show_icons=true&count_private=true&theme=radical&hide=issues" />
   </a>
   
 ---
-  
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=ketillyqueiroz" alt="Trophies" />
-    </a>
-  </p>
 
   ## Algumas Tecnologias
 
