@@ -11,10 +11,6 @@ Meu nome é Ketilly Queiroz, 20, estudante de Desenvolvimento Web com pretençã
 - :books: Estudando: HTML5, CSS3 e Javascript
 
 ---
-
-<details>
-  <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
-  <br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgdb&show_icons=true&count_private=true&theme=radical&hide=issues" />
@@ -35,4 +31,4 @@ Meu nome é Ketilly Queiroz, 20, estudante de Desenvolvimento Web com pretençã
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
   ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-</details>
+
