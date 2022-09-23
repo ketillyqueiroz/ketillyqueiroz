@@ -11,7 +11,7 @@ Meu nome é Ketilly Queiroz, 20 anos, estudante de Desenvolvimento Web com prete
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ketillyunicsul@gmail.com)](mailto:ketillyunicsul@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ketilly.keyce/)
 
-## Olá! 🥰
+## Olá! 🥰🎮
 
 - :books: Bacharelado em [**Ciência da Computação 2/8**](https://www.cruzeirodosulvirtual.com.br/graduacao/ciencia-da-computacao/)
 - :books: Estudando: HTML5, CSS3 e Javascript
