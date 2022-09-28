@@ -3,7 +3,7 @@
 </p>
 <p align="center"><code> 
 Meu nome é Ketilly Queiroz, 20 anos, estudante de Desenvolvimento Web com pretenção em Mobile! 📱 </code></p>
-<p align="center"><code>Em busca de conhecimento sempre.</code></p>
+<p align="center"><code>Em busca de conhecimento sempre!</code></p>
 
 ---
 
