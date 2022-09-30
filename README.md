@@ -4,7 +4,7 @@
 <p align="center"><code> 
 Meu nome é Ketilly Queiroz, 20 anos, estudante de Desenvolvimento Web com pretenção em Mobile 📱 </code></p>
 <p align="center"><code>Em busca de conhecimento sempre!</code></p>
-
+ 
 ---
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ketilly-queiroz-928825234/)](https://www.linkedin.com/in/ketilly-queiroz-928825234/)
