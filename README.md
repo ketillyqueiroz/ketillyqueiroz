@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=BD18E1&center=true&vCenter=true&width=435&lines=%3E+Ketilly+Queiroz+%3C" alt="Typing SVG"/>
 </p>
 <p align="center"><code> 
-Meu nome é Ketilly Queiroz, 20 anos, estudante de Desenvolvimento Web com pretenção em Mobile. 📱 </code></p>
+Meu nome é Ketilly Queiroz, 20 anos, estudante de Desenvolvimento Web com pretenção em Mobile 📱 </code></p>
 <p align="center"><code>Em busca de conhecimento sempre!</code></p>
 
 ---
@@ -18,7 +18,7 @@ Meu nome é Ketilly Queiroz, 20 anos, estudante de Desenvolvimento Web com prete
 
 ---
 
- ## Tecnologias 🖥
+ ## Tecnologias 🖥 
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
