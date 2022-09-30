@@ -32,6 +32,6 @@ Meu nome é Ketilly Queiroz, 20 anos, estudante de Desenvolvimento Web com prete
   
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ketillyqueiroz&show_icons=true&count_private=true&theme=radical&hide=issues" />
-  </a>
+  </a> 
   
 
