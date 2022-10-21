@@ -9,7 +9,7 @@ Olá, meu nome é Ketilly Queiroz, tenho 20 anos.</code></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ketilly-queiroz-928825234/)](https://www.linkedin.com/in/ketilly-queiroz-928825234/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ketillyunicsul@gmail.com)](mailto:ketillyunicsul@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ketilly.keyce/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ketilly.queiroz/)
 
 ## Olá 🥰
 
