@@ -13,7 +13,7 @@ Olá, meu nome é Ketilly Queiroz, tenho 20 anos.</code></p>
 
 ## Olá 🥰
 
-- :books: Bacharelado em [**Ciência da Computação 2/8**](https://www.cruzeirodosulvirtual.com.br/graduacao/ciencia-da-computacao/)
+- :books: Bacharelado em [**Ciência da Computação 3/8**](https://www.cruzeirodosulvirtual.com.br/graduacao/ciencia-da-computacao/)
 - :books: Java student
 
 ---
