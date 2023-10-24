@@ -13,7 +13,7 @@
 ## Olá 🥰
 
 - :books: Bacharelado em [**Ciência da Computação 4/8**](https://www.cruzeirodosulvirtual.com.br/graduacao/ciencia-da-computacao/)
-- :books: Java student
+- :books: Angular, TS student
 
 ---
 
