@@ -12,8 +12,8 @@
 
 ## Olá 🥰
 
-- :books: Bacharelado em [**Ciência da Computação 5/8**]([https://www.cruzeirodosulvirtual.com.br/graduacao/ciencia-da-computacao/](https://www.guiadacarreira.com.br/blog/ciencia-da-computacao))
-- :books: Angular, Bootstrap, React, Tailwind, TS student
+- :books: Bacharelado em [**Ciência da Computação 6/8**]([https://www.cruzeirodosulvirtual.com.br/graduacao/ciencia-da-computacao/](https://www.guiadacarreira.com.br/blog/ciencia-da-computacao))
+- :books: QA, Angular, Bootstrap, React, Tailwind, TS student
 
 ---
 
